@@ -20,6 +20,10 @@ h1 i {
   text-transform: none;
   font-style: italic;
 }
+#site-footer {
+  padding:20px;
+}
+}
 
       /* Sticky footer styles
       -------------------------------------------------- */
