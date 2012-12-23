@@ -2,6 +2,9 @@ body {
   padding-top: 60px;
   padding-bottom: 40px;
 }
+navbar-inverse {
+  background-color: #9d261d;
+}
 header a.brand, h2 {
   font-family: serif;
 }
