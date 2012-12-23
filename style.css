@@ -4,8 +4,9 @@ body {
 }
 h1 {
   font-family: serif;
-  color: crimson;
+  color: darkred;
   text-transform: uppercase;
+  text-align: center
 }
 h1 i {
   text-transform: none;
