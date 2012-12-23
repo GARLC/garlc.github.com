@@ -5,6 +5,11 @@ body {
 header a.brand, h2 {
   font-family: serif;
 }
+h1 {
+  font-family: serif;
+  color: #9d261d;
+  text-shadow: black 1px 1px, black 2px 2px;
+}
 div.hero-unit h1 {
   font-family: serif;
   color: #9d261d;
