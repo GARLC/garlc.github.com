@@ -1,6 +1,5 @@
-body {
+#wrap {
   padding-top: 60px;
-  padding-bottom: 40px;
 }
 header a.brand, h2 {
   font-family: serif;
