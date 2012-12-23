@@ -1,6 +1,6 @@
 ---
-layout: master
-title: Volunteer
+    layout: master
+    title: Volunteer
 ---
 
 Volunteer
