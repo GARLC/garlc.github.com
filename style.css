@@ -2,11 +2,15 @@ body {
   padding-top: 60px;
   padding-bottom: 40px;
 }
+header a.brand {
+  font-family: serif;
+}
 div.hero-unit h1 {
   font-family: serif;
-  color: red;
+  color: darkred;
   text-transform: uppercase;
-  text-align: center
+  text-align: center;
+  text-shadow: black 1px 1px, black 2px 2px;
 }
 h1 i {
   text-transform: none;
