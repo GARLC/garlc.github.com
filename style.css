@@ -26,3 +26,9 @@ h1 i {
 #site-footer .container {
   margin-top:20px;
 }
+/* Landscape phones and down */
+@media (max-width: 480px) {
+  div.hero-unit h1 {
+    font-size: 38.5px;
+  }
+}
