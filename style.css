@@ -3,7 +3,7 @@ body {
   padding-bottom: 40px;
 }
 navbar-inverse {
-  background-color: #9d261d;
+  background-color: #9d261d !important;
 }
 header a.brand, h2 {
   font-family: serif;
