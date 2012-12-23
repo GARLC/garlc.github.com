@@ -1,0 +1,13 @@
+body {
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
+h1 {
+  font-family: serif;
+  color: crimson;
+  text-transform: uppercase;
+}
+h1 i {
+  text-transform: none;
+  font-style: italic;
+}
