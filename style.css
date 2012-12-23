@@ -23,6 +23,8 @@ h1 i {
 #site-footer {
   padding:20px;
 }
+#site-footer .container {
+  margin-top:20px;
 }
 
       /* Sticky footer styles
