@@ -6,4 +6,4 @@ title: Donate
 Donate
 ======
 
-Make a donation. Make a difference.
+Make a donation. Aid the cause of Liberty in Georgia.
