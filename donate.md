@@ -1,6 +1,6 @@
 ---
-layout: master
-title: Donate
+    layout: master
+    title: Donate
 ---
 
 Donate
