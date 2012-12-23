@@ -29,7 +29,8 @@ h1 i {
 /* Landscape phones and down */
 @media (max-width: 480px) {
   .hero-unit {
-    padding: 20px;
+    padding: 20px 10px;
+    margin: 0 -10px;
   }
   .hero-unit h1 {
     font-size: 38.5px;
