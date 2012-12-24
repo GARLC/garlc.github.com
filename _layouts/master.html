@@ -6,7 +6,9 @@
 <head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>{% if page.title %} {{ page.title }} | {% endif %} RLC of GA</title>
+<title>{%unless page.url == '/index.html'%}
+{{page.title}} | RLC of GA{%else%}
+Republican Liberty Caucus of Georgia{% endif %}</title>
 <meta name="viewport" content="width=device-width">
 {%comment%}<meta name="viewport" content="width=device-width, initial-scale=1.0">{%endcomment%}
 <meta name="description" content="{{ page.description }}">
