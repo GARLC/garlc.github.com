@@ -15,7 +15,7 @@ div.hero-unit h1 {
   color: #9d261d;
   text-transform: uppercase;
   text-align: center;
-  text-shadow: #FFF 1px 1px, #0D0 2px 2px;
+  text-shadow: #333 1px 1px, #333 2px 2px;
 }
 h1 i {
   text-transform: none;
