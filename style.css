@@ -9,12 +9,13 @@ h1 {
   color: #9d261d;
   text-shadow: black 1px 1px, black 2px 2px;
 }
+/*[itemtype="http://schema.org/Organization"] [itemprop~="name"]*/
 div.hero-unit h1 {
   font-family: serif;
   color: #9d261d;
   text-transform: uppercase;
   text-align: center;
-  text-shadow: black 1px 1px, black 2px 2px;
+  text-shadow: #FFF 1px 1px, #DDD 2px 2px;
 }
 h1 i {
   text-transform: none;
