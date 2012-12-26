@@ -42,7 +42,7 @@ Make a difference. Change Georgia. Change the world.
   <label class="control-label" for="entry_3">Phone</label>
   <div class="controls">
     <div class="input-prepend">
-      <span class="add-on"><i class="icon-phone"> </i></span><input type="tel" name="entry.3.single" class="us-tel strict" placeholder="234-567-8901" id="entry_3" required="" pattern="\d{3}-\d{3}-\d{4}" />
+      <span class="add-on"><i class="icon-phone"> </i></span><input type="tel" name="entry.3.single" class="us-tel strict" placeholder="234-567-8901" id="entry_3" required="" pattern="\d{3}-\d{3}-\d{4}" maxlength="12" />
     </div>
 	<span class="help-inline">10 digit US telephone number</span>
   </div>
@@ -52,7 +52,7 @@ Make a difference. Change Georgia. Change the world.
   <label class="control-label" for="entry_4">ZIP Code</label>
   <div class="controls">
     <div class="input-prepend">
-      <span class="add-on"><i class="icon-envelope"> </i></span><input type="text" name="entry.4.single" class="us-zip strict" placeholder="12345-6789" id="entry_4" required="" pattern="\d{5}(-\d{4})?" />
+      <span class="add-on"><i class="icon-envelope"> </i></span><input type="text" name="entry.4.single" class="us-zip strict" placeholder="12345-6789" id="entry_4" required="" pattern="\d{5}(-\d{4})?" maxlength="10" />
     </div>
 	<span class="help-inline">5 or 9 digit ZIP code</span>
   </div>
