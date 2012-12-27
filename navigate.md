@@ -24,7 +24,7 @@ Foo bar{: .foo } baz
     {: .foo }
 
 - [About{:.a}][]{:.b}
-  {:.c}
+    {:.c}
 
 - [Join][]
 
