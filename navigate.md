@@ -38,3 +38,4 @@ Foo bar{: .foo } baz
 [Donate]:    /donate
 [Facebook]:  http://facebook.com/GeorgiaRLC
 [Twitter]:   http://twitter.com/GeorgiaRLC
+*[Foo]: Foobar
