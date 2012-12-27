@@ -21,7 +21,7 @@ Foo bar{: .foo } baz
 {: .biff }
 
 - [Home][]
-  {: .foo }
+    {: .foo }
 - [About][]
 - [Join][]
 - [Volunteer][]
