@@ -22,7 +22,7 @@ Foo bar{: .foo } baz
 
 - [Home][]
     {: .foo }
-- [About][]
+- [About{:.a}][]{:.b}
 - [Join][]
 - [Volunteer][]
 - [Donate][]
