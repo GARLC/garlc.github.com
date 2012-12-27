@@ -23,11 +23,17 @@ Foo bar{: .foo } baz
 - [Home][]
     {: .foo }
 - [About{:.a}][]{:.b}
+
 - [Join][]
+
 - [Volunteer][]
+
 - [Donate][]
-- Test{: .divider-vertical }
-- [Facebook][]{: .icon-facebook }
+
+- Test{:.divider-vertical}
+
+- [Facebook][]{:.icon-facebook style=display:inline}
+
 - [<i class="icon-twitter"> </i> Twitter][]
 {: .nav }
 
@@ -38,4 +44,4 @@ Foo bar{: .foo } baz
 [Donate]:    /donate
 [Facebook]:  http://facebook.com/GeorgiaRLC
 [Twitter]:   http://twitter.com/GeorgiaRLC
-*[Foo]: Foobar
+*[bar]: Foobar
