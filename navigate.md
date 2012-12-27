@@ -15,6 +15,9 @@
   <li class=""><a href="http://twitter.com/GeorgiaRLC">Twitter</a></li>
 </ul>
 
+Foo bar{: .foo } baz
+{: .biff }
+
 - [Home][]
 - [About][]
 - [Join][]
