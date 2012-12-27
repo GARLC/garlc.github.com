@@ -21,7 +21,7 @@
 - [Volunteer][]
 - [Donate][]
 - Test{: .divider-vertical }
-- [Facebook][]
+- [Facebook][]{: .icon-facebook }
 - [<i class="icon-twitter"> </i> Twitter][]
 {: .nav }
 
