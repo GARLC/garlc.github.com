@@ -20,7 +20,7 @@
 - [Join][]
 - [Volunteer][]
 - [Donate][]
-- {: .divider-vertical }
+- Test {: .divider-vertical }
 - [Facebook][]
 - [Twitter][]
 
