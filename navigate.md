@@ -15,6 +15,8 @@
   <li class=""><a href="http://twitter.com/GeorgiaRLC">Twitter</a></li>
 </ul>
 
+{% if page.url == "/navigate.html" %}Foo{% endif %}
+
 Foo bar{: .foo } baz
 {: .biff }
 
