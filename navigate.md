@@ -30,7 +30,7 @@ Foo bar{: .foo } baz
 
 - [Volunteer][]
 
-- [Donate][]
+- [Donate][]{:.icon-flag}
 
 - Test{:.divider-vertical}
 
