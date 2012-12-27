@@ -20,13 +20,15 @@
 - [Join][]
 - [Volunteer][]
 - [Donate][]
-- Test {: .divider-vertical }
+- Test{: .divider-vertical }
 - [Facebook][]
-- [Twitter][]
+- [<i class="icon-twitter"> </i> Twitter][]
+{: .nav }
 
 [Home]:      /
 [About]:     /about
 [Join]:      /join
 [Volunteer]: /volunteer
+[Donate]:    /donate
 [Facebook]:  http://facebook.com/GeorgiaRLC
 [Twitter]:   http://twitter.com/GeorgiaRLC
