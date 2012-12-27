@@ -1,4 +1,5 @@
 ---
+
     layout: master
     title: Navigate
 ---
@@ -13,3 +14,19 @@
   <li class=""><a href="https://facebook.com/GeorgiaRLC">Facebook</a></li>
   <li class=""><a href="http://twitter.com/GeorgiaRLC">Twitter</a></li>
 </ul>
+
+- [Home][]
+- [About][]
+- [Join][]
+- [Volunteer][]
+- [Donate][]
+- {: .divider-vertical }
+- [Facebook][]
+- [Twitter][]
+
+[Home]:      /
+[About]:     /about
+[Join]:      /join
+[Volunteer]: /volunteer
+[Facebook]:  http://facebook.com/GeorgiaRLC
+[Twitter]:   http://twitter.com/GeorgiaRLC
