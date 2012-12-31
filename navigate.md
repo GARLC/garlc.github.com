@@ -15,6 +15,14 @@
   <li class=""><a href="http://twitter.com/GeorgiaRLC">Twitter</a></li>
 </ul>
 
+---
+
+{% for page in site.pages %}
+- {{ page.title }}
+{% endfor %}
+
+---
+
 {% if page.url == "/navigate.html" %}Foo{% endif %}
 
 Foo bar{: .foo } baz
