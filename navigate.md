@@ -17,8 +17,8 @@
 
 ---
 
-{% for page in site.pages %}
-- {{ page.title }}
+{% for p in site.pages %}
+- {{ p.title }}
 {% endfor %}
 
 ---
