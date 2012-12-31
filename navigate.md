@@ -18,7 +18,7 @@
 ---
 
 {% for p in site.pages %}
-- {{ p.title }}
+- {{ p.title }} -- {{ p.url }}
 {% endfor %}
 
 ---
