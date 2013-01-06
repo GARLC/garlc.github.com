@@ -20,6 +20,9 @@ h1 i {
 #site-footer { padding:20px; }
 #site-footer .container { margin-top:20px; }
 
+@media (max-width: 767px) {
+  .hero-unit h1 { font-size: 42px; }
+}
 /* Landscape phones and down */
 @media (max-width: 480px) {
   .hero-unit {
