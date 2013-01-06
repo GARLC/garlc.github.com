@@ -86,7 +86,15 @@ Chrome Frame</a> to improve your experience.
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/2.2.2/bootstrap.min.js"></script>
 <script src="/script.js"></script>
-<script type="text/javascript">
+<script>
+  var uvOptions = {};
+  (function() {
+    var uv = document.createElement('script'); uv.type = 'text/javascript'; uv.async = true;
+    uv.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'widget.uservoice.com/ASrYcdQWnZBC3eZNUOPjyw.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(uv, s);
+  })();
+</script>
+<script>
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-37440462-1']);
