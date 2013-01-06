@@ -19,7 +19,7 @@ h1 i {
 }
 #site-footer { padding:20px; }
 #site-footer .container { margin-top:20px; }
-}
+
 /* Landscape phones and down */
 @media (max-width: 480px) {
   .hero-unit {
