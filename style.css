@@ -20,14 +20,16 @@ h1 i {
 #site-footer { padding:20px; }
 #site-footer .container { margin-top:20px; }
 
+.hero-unit h1 { font-size: 52px; }
+
 /* Large desktop */
 @media (min-width: 1200px) {
   
 }
- 
+
 /* Portrait tablet to landscape and desktop */
 @media (min-width: 768px) and (max-width: 979px) {
-  .hero-unit h1 { font-size: 52px; }
+  .hero-unit h1 { font-size: 51px; }
 }
  
 /* Landscape phone to portrait tablet */
