@@ -63,7 +63,7 @@ exclude: [ ]
 #permalink:   /:categories/:title
 
 ## Enables or disables Jekyll from recreating the site when files are modified.
-#auto:        false
+auto:        true
 
 ## Fires up a server that will host your _site directory
 #server:      false

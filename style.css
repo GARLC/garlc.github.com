@@ -1,15 +1,21 @@
-header a.brand, h2 {
+header a.brand {
   font-family: serif;
 }
-h1 {
+.brand .icon-fire {
+  color: #7C403C;
+}
+.brand:hover .icon-fire {
+  color: #9d261d;
+}
+h1, div.hero-unit h1, h2 {
   font-family: serif;
   color: #9d261d;
+}
+h1 {
   text-shadow: #DDD 1px 1px, #DDD 2px 2px;
 }
 /*[itemtype="http://schema.org/Organization"] [itemprop~="name"]*/
 div.hero-unit h1 {
-  font-family: serif;
-  color: #9d261d;
   text-transform: uppercase;
   text-align: center;
   text-shadow: #777 1px 1px, #777 2px 2px;
