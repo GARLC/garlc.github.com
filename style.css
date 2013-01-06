@@ -29,18 +29,21 @@ h1 i {
 
 /* Portrait tablet to landscape and desktop */
 @media (min-width: 768px) and (max-width: 979px) {
-  .hero-unit h1 { font-size: 51px; }
+  .hero-unit h1 { font-size: 39px; }
 }
  
 /* Landscape phone to portrait tablet */
 @media (max-width: 767px) {
-  .hero-unit h1 { font-size: 48px; }
+  .hero-unit h1 { font-size: 38px; }
+  .hero-unit {
+    padding: 40px 25px;
+  }
 }
 /* Landscape phones and down */
 @media (max-width: 480px) {
+  .hero-unit h1 { font-size: 37px; }
   .hero-unit {
     padding: 20px 10px;
     margin: 0 -10px;
   }
-  .hero-unit h1 { font-size: 37px; }
 }
