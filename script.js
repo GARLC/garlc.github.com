@@ -9,7 +9,8 @@ $(function(){
     ////////////
     $('.follow[title]').tooltip();
     $.getJSON('http://api.twitter.com/1/users/show.json?screen_name=GeorgiaRLC&callback=?', function(data){
-        $('.follow .icon-twitter').parents('li').prop('title', data.followers_count + 'followers on Twitter');
+        $('.follow .icon-twitter').parents('li')
+        .attr('data-original-title', data.followers_count + ' followers on Twitter');
     });
 
     //////////////
