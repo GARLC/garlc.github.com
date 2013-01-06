@@ -24,7 +24,7 @@ h1 i {
 
 /* Large desktop */
 @media (min-width: 1200px) {
-  
+  .hero-unit h1 { font-size: 60px; }
 }
 
 /* Portrait tablet to landscape and desktop */
