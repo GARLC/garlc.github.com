@@ -36,14 +36,11 @@ h1 i {
 @media (max-width: 767px) {
   .hero-unit h1 { font-size: 38px; }
   .hero-unit {
-    padding: 40px 25px;
+    padding: 20px 10px;
+    margin: 0 -10px;
   }
 }
 /* Landscape phones and down */
 @media (max-width: 480px) {
   .hero-unit h1 { font-size: 37px; }
-  .hero-unit {
-    padding: 20px 10px;
-    margin: 0 -10px;
-  }
 }
