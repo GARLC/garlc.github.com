@@ -12,6 +12,10 @@ $(function(){
         $('.follow .icon-twitter').parents('li')
         .attr('data-original-title', data.followers_count + ' followers on Twitter');
     });
+    $.getJSON("https://graph.facebook.com/GeorgiaRLC?callback=?", function(data){
+        $('.follow .icon-facebook').parents('li')
+        .attr('data-original-title', data.likes + ' likes on Facebook');
+    });
 
     //////////////
     // JS Shims //
