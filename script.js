@@ -8,8 +8,8 @@ $(function(){
     // Social //
     ////////////
     $('.follow[title]').tooltip();
-    $.getJSON("http://api.twitter.com/1/users/show.json?screen_name=GeorgiaRLC&callback=?", function(data){
-        $('.follow .icon-twitter').prop('title', data.followers_count);
+    $.getJSON('http://api.twitter.com/1/users/show.json?screen_name=GeorgiaRLC&callback=?, function(data){
+        $('.follow .icon-twitter').parent('li').prop('title', data.followers_count + 'followers on Twitter');
     });
 
     //////////////
@@ -17,7 +17,7 @@ $(function(){
     //////////////
     
     /** Autofocus */
-    if(!Mondernizr.input.autofocus) {
+    if(!Modernizr.input.autofocus) {
     	$('[autofocus]')[0].focus();
     }
     // TODO Add input[required] shim
