@@ -8,6 +8,10 @@ $(function(){
     // Social //
     ////////////
     $('.follow[title]').tooltip();
+    $.getJSON("http://api.twitter.com/1/users/show.json?screen_name=GeorgiaRLC&callback=?", function(data){
+        $('.follow .icon-twitter').prop('title', data.followers_count);
+    });
+
     //////////////
     // JS Shims //
     //////////////
