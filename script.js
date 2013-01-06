@@ -3,14 +3,18 @@ $(function(){
     $('[data-toggle=collapse]').on('click', function(e){
         e.preventDefault();
     });
-
+    
+    /////////////
+    // Social //
+    ////////////
+    $('.follow[title]').tooltip();
     //////////////
-	// JS Shims //
-	//////////////
-	
-	/** Autofocus */
-	if(!Mondernizr.input.autofocus) {
-	  $('[autofocus]')[0].focus();
-	}
-	// TODO Add input[required] shim
+    // JS Shims //
+    //////////////
+    
+    /** Autofocus */
+    if(!Mondernizr.input.autofocus) {
+    	$('[autofocus]')[0].focus();
+    }
+    // TODO Add input[required] shim
 });
