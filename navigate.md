@@ -4,17 +4,17 @@
 ---
 
 
-- [Home](/)
+- [<i class="icon-home"> </i> Home](/)
 
-- [News](http://news.rlcga.org)
+- [<i class="icon-file-alt"> </i> News](http://news.rlcga.org)
 
-- [About](/about)
+- [<i class="icon-info-sign"> </i> About](/about)
 
-- [Join](/join)
+- [<i class="icon-group"> </i> Join](/join)
 
-- [Volunteer](/volunteer)
+- [<i class="icon-user"> </i> Volunteer](/volunteer)
 
-- <i class="icon-facebook"> </i>[Facebook](https://facebook.com/GeorgiaRLC)
+- [<i class="icon-facebook"> </i> Facebook](https://facebook.com/GeorgiaRLC)
 
 - [<i class="icon-twitter"> </i> Twitter](https://twitter.com/GeorgiaRLC)
 
