@@ -14,7 +14,7 @@
 
 - [Volunteer](/volunteer)
 
-- <i class="icon-facebook"> </i> [Facebook](https://facebook.com/GeorgiaRLC)
+- <i class="icon-facebook"> </i>[Facebook](https://facebook.com/GeorgiaRLC)
 
 - [<i class="icon-twitter"> </i> Twitter](https://twitter.com/GeorgiaRLC)
 
