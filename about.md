@@ -52,15 +52,15 @@ Contact
 -------
 
 **Chair**  
-_ _{.icon-envelope}[Carter Kessler][3]
+<i class="icon-envelope"> </i>[Carter Kessler][3]
 {.span3}
 
 **Treasurer**  
-[Ben Johnson][4]
+<i class="icon-envelope"> </i>[Ben Johnson][4]
 {.span3}
 
 **Web Master**  
-[Kaleb Hornsby][5]
+<i class="icon-envelope"> </i>[Kaleb Hornsby][5]
 {.span3}
 
   [1]: http://rlc.org
