@@ -1,57 +1,34 @@
 ---
-
     layout: master
     title: Navigate
 ---
 
-<ul class="nav">
-  <li class="{%if page.url == '/index.html'%}active{%endif%}"><a href="/">Home</a></li>
-  <li class="{%if page.url == '/about.html'%}active{%endif%}"><a href="/about">About</a></li>
-  <li class="{%if page.url == '/join.html'%}active{%endif%}"><a href="/join">Join</a></li>
-  <li class="{%if page.url == '/volunteer.html'%}active{%endif%}"><a href="/volunteer">Volunteer</a></li>
-  <li class="{%if page.url == '/donate.html'%}active{%endif%}"><a href="/donate">Donate</a></li>
-  <li class="divider-vertical"></li>
-  <li class=""><a href="https://facebook.com/GeorgiaRLC">Facebook</a></li>
-  <li class=""><a href="http://twitter.com/GeorgiaRLC">Twitter</a></li>
-</ul>
-
----
-
-{% for p in site.pages %}
-- {{ p.title }} -- {{ p.url }} -- {{ page.id }}
-{% endfor %}
-
----
-
-{% if page.url == "/navigate.html" %}Foo{% endif %}
-
-Foo bar{: .foo } baz
-{: .biff }
 
 - [Home][]
-    {: .foo }
 
-- [About{:.a}][]{:.b}
-    {:.c}
+- [News][]
+
+- [About][]
 
 - [Join][]
 
 - [Volunteer][]
 
-- [Donate][]{:.icon-flag}
+- <i class="icon-facebook"> </i>     [Facebook][]
 
-- Test{:.divider-vertical}
+- <i class="icon-twitter"> </i>      [Twitter][]
 
-- [Facebook][]{:.icon-facebook style=display:inline}
+- <i class="icon-google-plus"> </i>  [Google+][]
 
-- [<i class="icon-twitter"> </i> Twitter][]
-{: .nav }
+- <i class="icon-envelope-alt"> </i> [Feedback][]
 
 [Home]:      /
+[News]:      http://news.rlcga.org
 [About]:     /about
 [Join]:      /join
 [Volunteer]: /volunteer
 [Donate]:    /donate
-[Facebook]:  http://facebook.com/GeorgiaRLC
-[Twitter]:   http://twitter.com/GeorgiaRLC
-*[bar]: Foobar
+[Facebook]:  https://facebook.com/GeorgiaRLC
+[Twitter]:   https://twitter.com/GeorgiaRLC
+[Google+]:   https://plus.google.com/101613640881883000309
+[Feedback]:  http://help.rlcga.org
