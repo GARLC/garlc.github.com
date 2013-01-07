@@ -88,11 +88,11 @@ Chrome Frame</a> to improve your experience.
 <script src="/script.js"></script>
 <script>
   var uvOptions = {};
-  (function() {
-    var uv = document.createElement('script'); uv.type = 'text/javascript'; uv.async = true;
-    uv.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'widget.uservoice.com/ASrYcdQWnZBC3eZNUOPjyw.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(uv, s);
-  })();
+  (function(d,t) {
+    var uv = d.createElement(t); uv.async = true;
+    uv.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'widget.uservoice.com/ASrYcdQWnZBC3eZNUOPjyw.js';
+    var s = d.getElementsByTagName(t)[0]; s.parentNode.insertBefore(uv, s);
+  })(document,'script');
 </script>
 <script>
 
