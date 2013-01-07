@@ -52,7 +52,7 @@ Contact
 -------
 
 **Chair**  
-[Carter Kessler][3]
+[Carter Kessler][3]{.icon-envelope}
 {.span3}
 
 **Treasurer**  
