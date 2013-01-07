@@ -60,7 +60,7 @@ Contact
 {.span3}
 
 **Web Master**  
-<i class="icon-envelope"> </i>[Kaleb Hornsby][7]
+<i class="icon-envelope"> </i>[Kaleb Hornsby][7]  
 <i class="icon-phone"> </i>[(706) 955-1417][8]
 {.span3}
 
