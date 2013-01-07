@@ -14,11 +14,11 @@
 
 - [Volunteer][]
 
-- <i class="icon-facebook"> </i>     [Facebook][]
+- <i class="icon-facebook"> </i> [Facebook][]
 
-- <i class="icon-twitter"> </i>      [Twitter][]
+- <i class="icon-twitter"> </i> [Twitter][]
 
-- <i class="icon-google-plus"> </i>  [Google+][]
+- <i class="icon-google-plus-sign"> </i> [Google+][]
 
 - <i class="icon-envelope-alt"> </i> [Feedback][]
 
