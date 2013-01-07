@@ -21,6 +21,7 @@
 - [<i class="icon-google-plus-sign"> </i> Google+][3]
 
 - [<i class="icon-envelope-alt"> </i> Feedback][4]
+{.unstyled}
 
 [Home]:      /
 [News]:      http://news.rlcga.org
