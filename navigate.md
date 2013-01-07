@@ -17,6 +17,8 @@
 - <i class="icon-facebook"> </i> [Facebook][]
 
 - <i class="icon-twitter"> </i> [Twitter][]
+ 
+---
 
 - <i class="icon-google-plus-sign"> </i> [Google+][]
 
