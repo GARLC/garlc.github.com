@@ -44,6 +44,7 @@ h1 i {
   }
   .social .tooltip {
     display:none;
+    z-index:-1;
   }
 }
 /* Landscape phones and down */
