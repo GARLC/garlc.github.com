@@ -18,6 +18,18 @@ Republican Liberty Caucus of Georgia{% endif %}</title>
 <link rel="stylesheet" href="/style.css">
 <script src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js"></script>
 <!--script>window.Modernizr || document.write('<script src="/+/modernizr.js"><\/script>')</script-->
+<script>
+  Modernizr.load([{
+    test: Modernizr.textshadow,
+    nope: [
+      '//raw.github.com/heygrady/textshadow/master/jquery.textshadow.css',
+      '//raw.github.com/heygrady/textshadow/master/jquery.textshadow.js'
+    ],
+    complete: function() {
+      alert('Done');
+    }
+  }]);
+</script>
 </head>
 <body>
 <div id="wrap">
