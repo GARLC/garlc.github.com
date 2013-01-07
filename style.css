@@ -20,6 +20,9 @@ h1 i {
 #site-footer { padding:20px; }
 #site-footer .container { margin-top:20px; }
 
+
+/* RESPONSIVE */
+
 .hero-unit h1 { font-size: 52px; }
 
 /* Large desktop */
@@ -38,6 +41,9 @@ h1 i {
   .hero-unit {
     padding: 20px 10px;
     margin: 0 -10px;
+  }
+  .social .tooltip {
+    display:none;
   }
 }
 /* Landscape phones and down */
