@@ -56,15 +56,17 @@ Contact
 {.span3}
 
 **Treasurer**  
-<i class="icon-envelope"> </i>[Ben Johnson][4]
+<i class="icon-envelope"> </i>[Ben Johnson][5]
 {.span3}
 
 **Web Master**  
-<i class="icon-envelope"> </i>[Kaleb Hornsby][5]
+<i class="icon-envelope"> </i>[Kaleb Hornsby][7]
+<i class="icon-phone"> </i>[Kaleb Hornsby][8]
 {.span3}
 
   [1]: http://rlc.org
   [2]: http://www.rlc.org/about/advisory-board/
   [3]: mailto:chair@rlcga.org
-  [4]: mailto:treasurer@rlcga.org
-  [5]: mailto:help@rlcga.org
+  [5]: mailto:treasurer@rlcga.org
+  [7]: mailto:help@rlcga.org
+  [8]: tel:+1-706-955-1417
