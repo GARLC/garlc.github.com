@@ -90,10 +90,10 @@ Chrome Frame</a> to improve your experience.
     '/script.js',
     {
       test: Modernizr.textshadow,
-      nope: {
-        js: '/jquery.textshadow.css',
-        css: '/jquery.textshadow.js'
-      },
+      nope: [
+        '/jquery.textshadow.css',
+        '/jquery.textshadow.js'
+      ],
       callback: function(url, result, key) {
         alert(url + key + result);
         if(result && key=='js') {
