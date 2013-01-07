@@ -7,7 +7,7 @@ $(function(){
     /////////////
     // Social //
     ////////////
-    $('.follow[title]').tooltip();
+    $('.follow[title],.btn-navbar[title]').tooltip();
     //User Voice
     $('.follow .icon-envelope-alt').parents('a').on('click', function(e){
         UserVoice.showPopupWidget();
