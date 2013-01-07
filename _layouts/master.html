@@ -19,16 +19,21 @@ Republican Liberty Caucus of Georgia{% endif %}</title>
 <script src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js"></script>
 <!--script>window.Modernizr || document.write('<script src="/+/modernizr.js"><\/script>')</script-->
 <script>
-  Modernizr.load([{
-    test: Modernizr.textshadow,
-    nope: [
-      '//raw.github.com/heygrady/textshadow/master/jquery.textshadow.css',
-      '//raw.github.com/heygrady/textshadow/master/jquery.textshadow.js'
-    ],
-    complete: function() {
-      $('h1').textshadow();
+  Modernizr.load([
+    '//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js',
+    '//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/2.2.2/bootstrap.min.js',
+    '/script.js',
+    {
+      test: Modernizr.textshadow,
+      nope: [
+        '//raw.github.com/heygrady/textshadow/master/jquery.textshadow.css',
+        '//raw.github.com/heygrady/textshadow/master/jquery.textshadow.js'
+        ],
+        complete: function() {
+          $('h1').textshadow();
+        }
     }
-  }]);
+  ]);
 </script>
 </head>
 <body>
@@ -95,9 +100,6 @@ Chrome Frame</a> to improve your experience.
   </p>
   </div>
 </footer>
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/2.2.2/bootstrap.min.js"></script>
-<script src="/script.js"></script>
 <script>
   var uvOptions = {};
   (function(d,t) {
