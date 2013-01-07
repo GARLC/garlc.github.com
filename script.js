@@ -3,11 +3,11 @@ $(function(){
     $('[data-toggle=collapse]').on('click', function(e){
         e.preventDefault();
     });
-    
+    $('.btn-navbar[title]').tooltip({placement:'left'});
     /////////////
     // Social //
     ////////////
-    $('.follow[title],.btn-navbar[title]').tooltip({placement:'bottom'});
+    $('.follow[title]').tooltip({placement:'bottom'});
     //User Voice
     $('.follow .icon-envelope-alt').parents('a').on('click', function(e){
         UserVoice.showPopupWidget();
