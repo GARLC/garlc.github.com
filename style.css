@@ -1,9 +1,9 @@
 html { overflow-y: scroll; }
-header a.brand { font-family: serif; }
+header a.brand { font-family: Georgia, "Times New Roman", Times, serif; }
 .brand .icon-fire { color: #7C403C; }
 .brand:hover .icon-fire { color: #9d261d; }
 h1, div.hero-unit h1, h2 {
-  font-family: serif;
+  font-family: Georgia, "Times New Roman", Times, serif;
   color: #9d261d;
 }
 h1 { text-shadow: #DDD 1px 1px, #DDD 2px 2px; }
