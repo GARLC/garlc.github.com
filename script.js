@@ -30,7 +30,7 @@ $(function(){
     
     /** Autofocus */
     if(!Modernizr.input.autofocus) {
-    	$('[autofocus]')[0].focus();
+    	$('[autofocus]:first').focus();
     }
     // TODO Add input[required] shim
 });
