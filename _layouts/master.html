@@ -89,15 +89,15 @@ Chrome Frame</a> to improve your experience.
     '//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/2.2.2/bootstrap.min.js',
     '/script.js',
     {
-      test: !Modernizr.textshadow,
+      test: Modernizr.textshadow,
       nope: [
         '/jquery.textshadow.css',
         '/jquery.textshadow.js'
       ],
-      complete: function() {
-        alert(0);
+      complete: function(a,b,c) {
+        alert([a,b,c]);
         $('h1').textshadow();
-        alert(1);
+        alert([a,b,c]);
       }
     }
   ]);
