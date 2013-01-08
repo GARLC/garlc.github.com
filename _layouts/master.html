@@ -94,8 +94,10 @@ Chrome Frame</a> to improve your experience.
         '/jquery.textshadow.css',
         '/jquery.textshadow.js'
       ],
-      callback: function(url, key) {
-        if(key) $(function(){$('h1').textshadow()});
+      complete: function() {
+        alert(0);
+        $('h1').textshadow();
+        alert(1);
       }
     }
   ]);
