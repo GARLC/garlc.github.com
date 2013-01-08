@@ -89,7 +89,7 @@ Chrome Frame</a> to improve your experience.
     '//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/2.2.2/bootstrap.min.js',
     '/script.js',
     {
-      test: Modernizr.textshadow,
+      test: !Modernizr.textshadow,
       nope: [
         '/jquery.textshadow.css',
         '/jquery.textshadow.js'
