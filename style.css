@@ -19,11 +19,11 @@ h1 i {
 }
 #site-footer { padding:20px; }
 #site-footer .container { margin-top:20px; }
-.carousel-message .carousel-inner {
+.carousel-message .carousel-inner .item {
   font-style: italic;
   font-family: Georgia, "Times New Roman", Times, serif;
   background-color: #000;
-  color: light-grey;
+  color: #fff;
   font-size: xx-large;
   padding: 2em;
 }
