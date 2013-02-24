@@ -28,6 +28,9 @@ h1 i {
   padding: 2em;
   height: 6em;
 }
+.carousel-message .carousel-label {
+  color:white;
+}
 
 /* RESPONSIVE */
 
