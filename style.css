@@ -60,5 +60,5 @@ h1 i {
 /* Landscape phones and down */
 @media (max-width: 480px) {
   .hero-unit h1 { font-size: 37px; }
-  .carousel-message .carousel-inner .item { font-size: 1.5em; }
+  .carousel-message .carousel-inner .item { font-size: 1.5em; height: 5em; }
 }
