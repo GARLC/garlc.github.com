@@ -22,10 +22,10 @@ h1 i {
 .carousel-message .carousel-inner {
   font-style: italic;
   font-family: Georgia, "Times New Roman", Times, serif;
-  background-color: #fff;
+  background-color: #000;
   color: dark-grey;
+  font-size: xx-large;
 }
-.carousel-message 
 
 /* RESPONSIVE */
 
