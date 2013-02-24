@@ -5,14 +5,14 @@
 I pledge to the citizens of this State, and to the American people, that as their elected representative I will work to:
 
 
-<div id="myCarousel" class="carousel slide">
+<div id="libertyCompactCarousel" class="carousel slide">
   <ol class="carousel-indicators">
-    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-    <li data-target="#myCarousel" data-slide-to="1"></li>
-    <li data-target="#myCarousel" data-slide-to="2"></li>
-    <li data-target="#myCarousel" data-slide-to="3"></li>
-    <li data-target="#myCarousel" data-slide-to="4"></li>
-    <li data-target="#myCarousel" data-slide-to="5"></li>
+    <li data-target="#libertyCompactCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#libertyCompactCarousel" data-slide-to="1"></li>
+    <li data-target="#libertyCompactCarousel" data-slide-to="2"></li>
+    <li data-target="#libertyCompactCarousel" data-slide-to="3"></li>
+    <li data-target="#libertyCompactCarousel" data-slide-to="4"></li>
+    <li data-target="#libertyCompactCarousel" data-slide-to="5"></li>
   </ol>
   <!-- Carousel items -->
   <div class="carousel-inner">
@@ -36,6 +36,6 @@ I pledge to the citizens of this State, and to the American people, that as thei
 	</div>
   </div>
   <!-- Carousel nav -->
-  <a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
-  <a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
+  <a class="carousel-control left" href="#libertyCompactCarousel" data-slide="prev">&lsaquo;</a>
+  <a class="carousel-control right" href="#libertyCompactCarousel" data-slide="next">&rsaquo;</a>
 </div>

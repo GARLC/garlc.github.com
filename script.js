@@ -4,6 +4,7 @@ $(function(){
         e.preventDefault();
     });
     $('.btn-navbar[title]').tooltip({placement:'left'});
+	$('.carousel').carousel();
     /////////////
     // Social //
     ////////////
