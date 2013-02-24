@@ -5,7 +5,7 @@
 I pledge to the citizens of this State, and to the American people, that as their elected representative I will work to:
 
 
-<div id="libertyCompactCarousel" class="carousel carousel-message slide hero-unit">
+<div id="libertyCompactCarousel" class="carousel carousel-message slide">
   <ol class="carousel-indicators">
     <li data-target="#libertyCompactCarousel" data-slide-to="0" class="active"></li>
     <li data-target="#libertyCompactCarousel" data-slide-to="1"></li>
@@ -17,22 +17,22 @@ I pledge to the citizens of this State, and to the American people, that as thei
   <!-- Carousel items -->
   <div class="carousel-inner">
     <div class="active item">
-      <p class="carousel-caption">restore liberty, not restrict it;</p>
+      <p>restore liberty, not restrict it;</p>
 	</div>
     <div class="item">
-      <p class="carousel-caption">shrink government, not expand it;</p>
+      <p>shrink government, not expand it;</p>
 	</div>
     <div class="item">
-      <p class="carousel-caption">reduce taxes, not raise them;</p>
+      <p>reduce taxes, not raise them;</p>
 	</div>
     <div class="item">
-      <p class="carousel-caption">abolish programs, not create them;</p>
+      <p>abolish programs, not create them;</p>
 	</div>
     <div class="item">
-      <p class="carousel-caption">promote the freedom and independence of citizens, not the interference of government in their lives;</p>
+      <p>promote the freedom and independence of citizens, not the interference of government in their lives;</p>
 	</div>
     <div class="item">
-      <p class="carousel-caption">observe the limited, enumerated powers of our Constitution, not ignore them.</p>
+      <p>observe the limited, enumerated powers of our Constitution, not ignore them.</p>
 	</div>
   </div>
   <!-- Carousel nav -->
