@@ -1,12 +1,11 @@
 ---
     layout: default
 ---
-
+<p>
 I pledge to the citizens of this State, and to the American people, that as their elected representative I will work to:
-
+</p>
 
 <div id="libertyCompactCarousel" class="carousel carousel-message slide">
-  <div class="carousel-label">Signers of the Liberty Compact pledge to:</div>
   <ol class="carousel-indicators">
     <li data-target="#libertyCompactCarousel" data-slide-to="0" class="active"></li>
     <li data-target="#libertyCompactCarousel" data-slide-to="1"></li>
@@ -39,5 +38,5 @@ I pledge to the citizens of this State, and to the American people, that as thei
   <!-- Carousel nav -->
   <a class="carousel-control left" href="#libertyCompactCarousel" data-slide="prev">&lsaquo;</a>
   <a class="carousel-control right" href="#libertyCompactCarousel" data-slide="next">&rsaquo;</a>
-  <div class="carousel-caption">Sign it now.</div>
 </div>
+<a href="/liberty-compact" class="btn btn-primary">View the Liberty Compact</a>
