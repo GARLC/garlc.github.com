@@ -5,7 +5,7 @@
 I pledge to the citizens of this State, and to the American people, that as their elected representative I will work to:
 
 
-<div id="libertyCompactCarousel" class="carousel slide">
+<div id="libertyCompactCarousel" class="carousel slide well">
   <ol class="carousel-indicators">
     <li data-target="#libertyCompactCarousel" data-slide-to="0" class="active"></li>
     <li data-target="#libertyCompactCarousel" data-slide-to="1"></li>
