@@ -39,11 +39,13 @@ h1 i {
 /* Large desktop */
 @media (min-width: 1200px) {
   .hero-unit h1 { font-size: 60px; }
+  .carousel-message .carousel-inner .item { font-size: 3.5em; }
 }
 
 /* Portrait tablet to landscape and desktop */
 @media (min-width: 768px) and (max-width: 979px) {
   .hero-unit h1 { font-size: 39px; }
+  .carousel-message .carousel-inner .item { font-size: 2.5em; }
 }
  
 /* Landscape phone to portrait tablet */
@@ -53,8 +55,10 @@ h1 i {
     padding: 20px 10px;
     margin: 0 -10px;
   }
+  .carousel-message .carousel-inner .item { font-size: 2em; }
 }
 /* Landscape phones and down */
 @media (max-width: 480px) {
   .hero-unit h1 { font-size: 37px; }
+  .carousel-message .carousel-inner .item { font-size: 1.5em; }
 }
