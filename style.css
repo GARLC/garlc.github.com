@@ -19,6 +19,7 @@ h1 i {
 }
 #site-footer { padding:20px; }
 #site-footer .container { margin-top:20px; }
+.carousel-message { margin-top: .5em; }
 .carousel-message .carousel-inner .item {
   font-style: italic;
   font-family: Georgia, "Times New Roman", Times, serif;
