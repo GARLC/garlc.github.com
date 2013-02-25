@@ -1,6 +1,6 @@
 ---
-    layout: default
-    title: Liberty Compact
+layout: default
+title: Liberty Compact
 ----
 
 I pledge to the citizens of this State, and to the American people, that as
