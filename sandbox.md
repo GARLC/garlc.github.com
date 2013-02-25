@@ -1,11 +1,11 @@
 ---
     layout: default
 ---
+
+<div class="hero-unit">
 <p>
 I pledge to the citizens of this State, and to the American people, that as their elected representative I will work to:
 </p>
-
-<div class="hero-unit">
 <div id="libertyCompactCarousel" class="carousel carousel-message slide">
   <ol class="carousel-indicators">
     <li data-target="#libertyCompactCarousel" data-slide-to="0" class="active"></li>
