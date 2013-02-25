@@ -9,4 +9,3 @@ shrink government, not expand it; reduce taxes, not raise them; abolish
 programs, not create them; promote the freedom and independence of citizens,
 not the interference of government in their lives; and observe the limited,
 enumerated powers of our Constitution, not ignore them.
-
