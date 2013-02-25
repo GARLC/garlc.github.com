@@ -37,8 +37,8 @@ I pledge to the citizens of this State, and to the American people, that as thei
 	</div>
   </div>
   <!-- Carousel nav -->
-  <a class="carousel-control left" href="#libertyCompactCarousel" data-slide="prev">&lsaquo;</a>
-  <a class="carousel-control right" href="#libertyCompactCarousel" data-slide="next">&rsaquo;</a>
+  <!--a class="carousel-control left" href="#libertyCompactCarousel" data-slide="prev">&lsaquo;</a-->
+  <!--a class="carousel-control right" href="#libertyCompactCarousel" data-slide="next">&rsaquo;</a-->
 </div>
 <a href="/liberty-compact" class="btn btn-primary">View the Liberty Compact</a>
 </div>
