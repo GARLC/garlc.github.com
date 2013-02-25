@@ -1,6 +1,6 @@
 ---
     layout: default
-    title:  Become a Member
+    title:  The Liberty Compact
 ---
 
 I pledge to the citizens of this State, and to the American people, that as
