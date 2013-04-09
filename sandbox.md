@@ -23,7 +23,7 @@ Shelby Peterson
 Interim Secretary RLCofGA  
 [shpeterson@hotmail.com](mailto:shpeterson@hotmail.com)  
 (801) 722-5801  
-<a href="http://rlcga.org">rlcga.org</a>
+[rlcga.org](http://rlcga.org)
 
 </div>
 <div class="span6">
@@ -37,10 +37,8 @@ Interim Secretary RLCofGA
 </div>
 </div>
 
-<div class="row" markdown="1">
-<div class="span12">
-
-<h2>Message From the Chairman</h2>
+Message From the Chairman
+-------------------------
 
 Monday April 8th 2013
 
@@ -59,7 +57,8 @@ Monday April 8th 2013
 > Carter Kessler  
 > Interim Chairman RLC of Georgia
 
-<h2>Convention Agenda</h2>
+Convention Agenda
+-----------------
 
 <div markdown="1">
 Saturday May 4th 2013- Republican Liberty Caucus of Georgia State Convention
