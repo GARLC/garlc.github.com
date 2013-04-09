@@ -42,9 +42,28 @@ Interim Secretary RLCofGA<br />
 </div>
 
 <div class="row" markdown="1">
+<div class="span12">
 
-Convention Agenda
------------------
+<h2>Chairman's Message</h2>
+
+Monday April 8th 2013
+
+> Dear Fellow Republicans-
+>
+> Please join me and other republicans from across the state on Saturday May 4th in McDonough for the 2013 Republican Liberty Caucus of Georgia state convention.  The convention will be used to fill out our board, amend bylaws and draft a resolution for the GAGOP state convention.
+>
+> After having been dormant for months the caucus called a convention in December to relieve Chairman Bowden.  That evening seventeen RLC members met in Woodbury to elect new interim leadership until a full caucus convention could be held.  Since then I’ve worked with several other members to put this convention together.
+>
+> This caucus affords us a wonderful opportunity to both grow and support our GAGOP and also remain true to our convictions of less government, lower taxes and more individual liberty.  I hope that you’ll take the time to read through our agenda and compact and will attend our convention.  We are building the structure necessary to effectively harness and maximize the enthusiasm of our members now and in the future.  We always want more conservative activists to be effectively engaged in local state politics.  Developing strong district captains and a responsive board are crucial to our success.  
+>
+> Thanks for your attention- I hope to see you in McDonough!
+>
+> Sincerely-
+>
+> Carter Kessler  
+> Interim Chairman RLC of Georgia
+
+<h2>Convention Agenda</h2>
 
     Saturday May 4th 2013- Republican Liberty Caucus of Georgia State Convention
     1:00pm –Registration opens; 
@@ -63,6 +82,7 @@ Convention Agenda
     *Chairman's Report
       -Adjourn
 
+</div>
 </div>
 
  [2]: https://maps.google.com/maps?cid=873884944616720550
