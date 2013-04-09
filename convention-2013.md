@@ -48,7 +48,7 @@ Convention Agenda
 
     Saturday May 4th 2013- Republican Liberty Caucus of Georgia State Convention
     1:00pm –Registration opens; 
-    930 Georgia 155 South, McDonough GA 30253 | Quality Inn & Suites Convention Center
+    930 Georgia 155 South, McDonough GA 30253 | Quality Inn &amp; Suites Convention Center
     2:00pm –Convene- Credentials roll call report 
         *Welcome/RLC Liberty Compact
     *Invocation/ Pledge of Allegiance
