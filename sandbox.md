@@ -3,8 +3,12 @@
     title: 2013 Republican Liberty Caucus of Georgia State Convention
 ---
 
+<div>
 This is  
 a test
+
+another p
+</div>
 
 <div class="row">
 <div class="span6">
