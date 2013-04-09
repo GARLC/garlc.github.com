@@ -11,6 +11,9 @@ The Republican Liberty Caucus of Georgia 2013 convention will begin at 1:00 PM o
 
 We humbly request your attendance and ask you to [register now][3].
 
+This is an important event, where you can join your fellow liberty fighters in paving the pathway to Liberty
+in our fair state for years to come.
+
 </div>
 
 <iframe class="span6" width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?cid=873884944616720550&amp;output=embed"></iframe>
