@@ -7,7 +7,7 @@
 <div class="span6" markdown="1">
 
 The Republican Liberty Caucus of Georgia 2013 convention will begin at 1:00 PM on May 4th, at the
-[Quality Inn & Suites Convention Center located at 930 Georgia 155 South McDonough, GA 30253][2].
+[Quality Inn &amp; Suites Convention Center located at 930 Georgia 155 South McDonough, GA 30253][2].
 
 We humbly request your attendance and ask you to [register now][3].
 
