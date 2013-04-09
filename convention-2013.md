@@ -5,7 +5,7 @@
 
 <div class="row">
 <div class="span6" markdown="1">
-**McDonough, GA**&mdash;2pm Saturday May 4th 2013&mdash;Georgia republicans from across the state will be convening in
+<span><b>McDonough, GA</b>&mdash;2pm Saturday May 4th 2013</span>&mdash;Georgia republicans from across the state will be convening in
 McDonough Saturday May 4th beginning at 1pm.  Liberty caucus members will be electing board positions, adopting updated
 bylaws and drafting a resolution for the GAGOP state convention.
 
