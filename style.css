@@ -21,6 +21,9 @@ address p {
   margin-bottom:0;
   line-height:0;
 }
+blockquote p {
+  margin-bottom:inherit;
+}
 #site-footer { padding:20px; }
 #site-footer .container { margin-top:20px; }
 .carousel-message { margin-top: .5em; }
