@@ -16,15 +16,14 @@ Woodbury and is now focused on both augmenting the GOP and growing membership pa
 
 <a href="https://www.xorbia.com/e/rlc/republican-liberty-caucus-georgia-state-convention">Register for the Convention Now</a>
 
-<h2>Press Contact</h2>
+Press Contact
+-------------
 
-<address>
-Shelby Peterson<br />
-Interim Secretary RLCofGA<br />
-<a href="mailto:shpeterson@hotmail.com">shpeterson@hotmail.com</a><br />
-(801) 722-5801<br />
+Shelby Peterson  
+Interim Secretary RLCofGA  
+<a href="mailto:shpeterson@hotmail.com">shpeterson@hotmail.com</a>  
+(801) 722-5801  
 <a href="http://rlcga.org">rlcga.org</a>
-</address>
 
 </div>
 <div class="span6">
