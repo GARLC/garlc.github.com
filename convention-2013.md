@@ -37,7 +37,7 @@ Interim Secretary RLCofGA<br />
 <br />McDonough, GA 30253
 </address>
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?cid=873884944616720550&amp;output=embed"></iframe>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?cid=873884944616720550&amp;output=embed"> </iframe>
 </div>
 </div>
 
