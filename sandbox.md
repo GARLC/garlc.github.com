@@ -26,7 +26,7 @@ Interim Secretary RLCofGA
 [rlcga.org](http://rlcga.org)
 
 </div>
-<div class="span6" markdown="1">
+<div class="span6">
 
 **[Quality Inn &amp; Suites Convention Center](https://maps.google.com/maps?cid=873884944616720550)**  
 930 Georgia 155 South  
