@@ -19,7 +19,7 @@ h1 i {
 }
 address p {
   margin-bottom:0;
-  line-height:10px;
+  line-height:0;
 }
 #site-footer { padding:20px; }
 #site-footer .container { margin-top:20px; }
