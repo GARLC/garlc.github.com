@@ -3,35 +3,18 @@
     title: 2013 Republican Liberty Caucus of Georgia State Convention
 ---
 
-<div>
-<div markdown="1">
+<div class="row">
+<div class="span6" markdown="1">
+
 **McDonough, GA**—2pm Saturday May 4th 2013—Georgia republicans from across the state will be
 convening in McDonough Saturday May 4th beginning at 1pm.  Liberty caucus members will be electing board positions,
 adopting updated bylaws and drafting a resolution for the GAGOP state convention.
 
-This is  
-a test
-
-another p
-</div>
-</div>
-
-<div class="row">
-<div class="span6">
-<p>
-<b>McDonough, GA</b>—2pm Saturday May 4th 2013—Georgia republicans from across the state will be
-convening in McDonough Saturday May 4th beginning at 1pm.  Liberty caucus members will be electing board positions,
-adopting updated bylaws and drafting a resolution for the GAGOP state convention.
-</p>
-<p>
-<q>I anticipate a well-run and well attended convention to launch us forward into our newest election cycle,</q> stated
+"I anticipate a well-run and well attended convention to launch us forward into our newest election cycle," stated
 interim caucus chair Carter Kessler.  The RLC of Georgia has recently been transitioning since a December convention in
 Woodbury and is now focused on both augmenting the GOP and growing membership participation.
-</p>
 
-<p>
 <a href="https://www.xorbia.com/e/rlc/republican-liberty-caucus-georgia-state-convention">Register for the Convention Now</a>
-</p>
 
 <h2>Press Contact</h2>
 
