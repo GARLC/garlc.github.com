@@ -84,7 +84,7 @@ Saturday May 4th 2013- Republican Liberty Caucus of Georgia State Convention
 * Hear bylaw adoption proposals (Rules Chair)
 * Hear GAGOP convention resolution 
 * Republican Liberty Caucus of Georgia Champion of Liberty Award 2012
-* Chairman&apos;s Report
+* <span>Chairman&apos;s Report</span>
 * Adjourn
 </div>
 </div>
