@@ -36,5 +36,25 @@ McDonough Georgia 30253
 </div>
 </div>
 
+Convention Agenda
+-----------------
+
+    Saturday May 4th 2013- Republican Liberty Caucus of Georgia State Convention
+    1:00pm –Registration opens; 
+    930 Georgia 155 South, McDonough GA 30253 | Quality Inn & Suites Convention Center
+    2:00pm –Convene- Credentials roll call report 
+        *Welcome/RLC Liberty Compact
+    *Invocation/ Pledge of Allegiance
+    *Elect Convention Chair
+    *Appoint Convention Secretary
+    *Elect Caucus officers (4)
+    *Elect District Captains- Caucus by district (14)
+    *Elect Board Members at-large (5) and alternates (3)
+    *Hear bylaw adoption proposals (Rules Chair)
+    *Hear GAGOP convention resolution 
+    *Republican Liberty Caucus of Georgia Champion of Liberty Award 2012
+    *Chairman's Report
+      -Adjourn
+
  [2]: https://maps.google.com/maps?cid=873884944616720550
  [3]: https://www.xorbia.com/e/rlc/republican-liberty-caucus-georgia-state-convention
