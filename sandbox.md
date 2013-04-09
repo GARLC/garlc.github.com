@@ -3,7 +3,7 @@
     title: 2013 Republican Liberty Caucus of Georgia State Convention
 ---
 
-<div>
+<div markdown="1">
 This is  
 a test
 
