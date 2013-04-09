@@ -74,7 +74,7 @@ Saturday May 4th 2013- Republican Liberty Caucus of Georgia State Convention
 
 2:00pm –Convene- Credentials roll call report 
 
-<ul>
+<ul markdown="0">
 <li>
 <p>Welcome/RLC Liberty Compact</p>
 </li>
