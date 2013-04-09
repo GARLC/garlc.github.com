@@ -60,7 +60,7 @@ Contact
 {.span3}
 
 **Secretary**  
-<i class="icon-envelope"> </i>[Shelby Peterson][6]
+<i class="icon-envelope"> </i>[Shelby Peterson][6]  
 <i class="icon-phone"> </i>[(706) 955-1417][7]
 {.span3}
 
