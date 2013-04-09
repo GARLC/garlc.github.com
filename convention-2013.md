@@ -74,18 +74,56 @@ Saturday May 4th 2013- Republican Liberty Caucus of Georgia State Convention
 
 2:00pm –Convene- Credentials roll call report 
 
-* Welcome/RLC Liberty Compact
-* Invocation/ Pledge of Allegiance
-* Elect Convention Chair
-* Appoint Convention Secretary
-* Elect Caucus officers (4)
-* Elect District Captains- Caucus by district (14)
-* Elect Board Members at-large (5) and alternates (3)
-* Hear bylaw adoption proposals (Rules Chair)
-* Hear GAGOP convention resolution 
-* Republican Liberty Caucus of Georgia Champion of Liberty Award 2012
-* <span>Chairman&apos;s Report</span>
-* Adjourn
+<ul>
+<li>
+<p>Welcome/RLC Liberty Compact</p>
+</li>
+
+<li>
+<p>Invocation/ Pledge of Allegiance</p>
+</li>
+
+<li>
+<p>Elect Convention Chair</p>
+</li>
+
+<li>
+<p>Appoint Convention Secretary</p>
+</li>
+
+<li>
+<p>Elect Caucus officers (4)</p>
+</li>
+
+<li>
+<p>Elect District Captains- Caucus by district (14)</p>
+</li>
+
+<li>
+<p>Elect Board Members at-large (5) and alternates (3)</p>
+</li>
+
+<li>
+<p>Hear bylaw adoption proposals (Rules Chair)</p>
+</li>
+
+<li>
+<p>Hear GAGOP convention resolution</p>
+</li>
+
+<li>
+<p>Republican Liberty Caucus of Georgia Champion of Liberty Award 2012</p>
+</li>
+
+<li>
+<p>Chairman's Report</p>
+</li>
+
+<li>
+<p>Adjourn</p>
+</li>
+
+</ul>
 </div>
 </div>
 </div>
