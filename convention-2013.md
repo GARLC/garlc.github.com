@@ -4,48 +4,42 @@
 ---
 
 <div class="row">
-<div class="span6">
-<p>
-<b>McDonough, GA</b>—2pm Saturday May 4th 2013—Georgia republicans from across the state will be
+<div class="span6" markdown="1">
+
+**McDonough, GA**—2pm Saturday May 4th 2013—Georgia republicans from across the state will be
 convening in McDonough Saturday May 4th beginning at 1pm.  Liberty caucus members will be electing board positions,
 adopting updated bylaws and drafting a resolution for the GAGOP state convention.
-</p>
-<p>
-<q>I anticipate a well-run and well attended convention to launch us forward into our newest election cycle,</q> stated
+
+"I anticipate a well-run and well attended convention to launch us forward into our newest election cycle," stated
 interim caucus chair Carter Kessler.  The RLC of Georgia has recently been transitioning since a December convention in
 Woodbury and is now focused on both augmenting the GOP and growing membership participation.
-</p>
 
-<p>
 <a href="https://www.xorbia.com/e/rlc/republican-liberty-caucus-georgia-state-convention">Register for the Convention Now</a>
-</p>
 
-<h2>Press Contact</h2>
+Press Contact
+-------------
 
-<address>
-Shelby Peterson<br />
-Interim Secretary RLCofGA<br />
-<a href="mailto:shpeterson@hotmail.com">shpeterson@hotmail.com</a><br />
-(801) 722-5801<br />
-<a href="http://rlcga.org">rlcga.org</a>
-</address>
+Shelby Peterson  
+Interim Secretary RLCofGA  
+[shpeterson@hotmail.com](mailto:shpeterson@hotmail.com)  
+(801) 722-5801  
+[rlcga.org](http://rlcga.org)
 
 </div>
 <div class="span6">
-<address>
-<b><a href="https://maps.google.com/maps?cid=873884944616720550">Quality Inn &amp; Suites Convention Center</a></b>
-<br />930 Georgia 155 South  
-<br />McDonough, GA 30253
-</address>
+
+**[Quality Inn &amp; Suites Convention Center](https://maps.google.com/maps?cid=873884944616720550)**  
+930 Georgia 155 South  
+McDonough, GA 30253
+
+---
 
 <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?cid=873884944616720550&amp;output=embed"> </iframe>
 </div>
 </div>
 
-<div class="row" markdown="1">
-<div class="span12">
-
-<h2>Message From the Chairman</h2>
+Chairman's Message
+------------------
 
 Monday April 8th 2013
 
@@ -64,7 +58,8 @@ Monday April 8th 2013
 > Carter Kessler  
 > Interim Chairman RLC of Georgia
 
-<h2>Convention Agenda</h2>
+Convention Agenda
+-----------------
 
 <div markdown="1">
 Saturday May 4th 2013- Republican Liberty Caucus of Georgia State Convention
@@ -125,8 +120,6 @@ Saturday May 4th 2013- Republican Liberty Caucus of Georgia State Convention
 </li>
 
 </ul>
-</div>
-</div>
 </div>
 
  [2]: https://maps.google.com/maps?cid=873884944616720550
