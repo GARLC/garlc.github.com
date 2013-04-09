@@ -15,9 +15,10 @@ adopting updated bylaws and drafting a resolution for the GAGOP state convention
 interim caucus chair Carter Kessler.  The RLC of Georgia has recently been transitioning since a December convention in
 Woodbury and is now focused on both augmenting the GOP and growing membership participation.
 </p>
-Attached is a full convention agenda 
-Attached is a welcome from the Chairman  
-Link for registration
+
+<p>
+<a href="https://www.xorbia.com/e/rlc/republican-liberty-caucus-georgia-state-convention">Register for the Convention Now</a>
+</p>
 
 <h2>Press Contact</h2>
 
