@@ -116,7 +116,7 @@ Saturday May 4th 2013- Republican Liberty Caucus of Georgia State Convention
 </li>
 
 <li>
-<p>Chairman's Report</p>
+<p>Chairman Report</p>
 </li>
 
 <li>
