@@ -21,7 +21,7 @@ Press Contact
 
 Shelby Peterson  
 Interim Secretary RLCofGA  
-<a href="mailto:shpeterson@hotmail.com">shpeterson@hotmail.com</a>  
+[shpeterson@hotmail.com](mailto:shpeterson@hotmail.com)  
 (801) 722-5801  
 <a href="http://rlcga.org">rlcga.org</a>
 
