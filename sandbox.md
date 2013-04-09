@@ -120,8 +120,6 @@ Saturday May 4th 2013- Republican Liberty Caucus of Georgia State Convention
 
 </ul>
 </div>
-</div>
-</div>
 
  [2]: https://maps.google.com/maps?cid=873884944616720550
  [3]: https://www.xorbia.com/e/rlc/republican-liberty-caucus-georgia-state-convention
