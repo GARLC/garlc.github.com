@@ -5,7 +5,7 @@
 
 <div class="row">
 <div class="span6" markdown="1">
-<span><b>McDonough, GA</b>&mdash;2pm Saturday May 4th 2013&mdash;</span>Georgia republicans from across the state will be
+**McDonough, GA**—2pm Saturday May 4th 2013—Georgia republicans from across the state will be
 convening in McDonough Saturday May 4th beginning at 1pm.  Liberty caucus members will be electing board positions,
 adopting updated bylaws and drafting a resolution for the GAGOP state convention.
 
@@ -20,10 +20,10 @@ Link for registration
 Press Contact
 -------------
 
-Shelby Peterson 
-Interim Secretary RLCofGA
-[shpeterson@hotmail.com](mailto:shpeterson@hotmail.com)
-(801) 722-5801
+Shelby Peterson  
+Interim Secretary RLCofGA  
+[shpeterson@hotmail.com](mailto:shpeterson@hotmail.com)  
+(801) 722-5801  
 [rlcga.org](http://rlcga.org)
 
 </div>
