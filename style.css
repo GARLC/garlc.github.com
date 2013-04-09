@@ -17,6 +17,9 @@ h1 i {
   text-transform: none;
   font-style: italic;
 }
+address p {
+  margin:none;
+}
 #site-footer { padding:20px; }
 #site-footer .container { margin-top:20px; }
 .carousel-message { margin-top: .5em; }
