@@ -26,12 +26,11 @@ Interim Secretary RLCofGA
 [rlcga.org](http://rlcga.org)
 
 </div>
-<div class="span6">
-<address>
-<b><a href="https://maps.google.com/maps?cid=873884944616720550">Quality Inn &amp; Suites Convention Center</a></b>
-<br />930 Georgia 155 South  
-<br />McDonough, GA 30253
-</address>
+<div class="span6" markdown="1">
+
+**[Quality Inn &amp; Suites Convention Center](https://maps.google.com/maps?cid=873884944616720550)** 
+930 Georgia 155 South  
+McDonough, GA 30253
 
 <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?cid=873884944616720550&amp;output=embed"> </iframe>
 </div>
