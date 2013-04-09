@@ -44,7 +44,7 @@ Interim Secretary RLCofGA<br />
 <div class="row" markdown="1">
 <div class="span12">
 
-<h2>Chairman's Message</h2>
+<h2>Message From the Chairman</h2>
 
 Monday April 8th 2013
 
