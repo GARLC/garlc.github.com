@@ -2,4 +2,4 @@
     layout: default
 ---
 
-This a test of Maruku's features.
+<h2>This a test of Maruku's features.</h2>
