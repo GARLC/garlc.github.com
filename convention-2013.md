@@ -21,19 +21,21 @@ Link for registration
 Press Contact
 -------------
 
-<div>
+<address>
 Shelby Peterson<br />
 Interim Secretary RLCofGA<br />
 <a href="mailto:shpeterson@hotmail.com">shpeterson@hotmail.com</a><br />
 (801) 722-5801<br />
 <a href="http://rlcga.org">rlcga.org</a>
-</div>
+</address>
 
 </div>
 <div class="span6">
+<address>
 <b><a href="https://maps.google.com/maps?cid=873884944616720550">Quality Inn &amp; Suites Convention Center</a></b>
 <br />930 Georgia 155 South  
 <br />McDonough, GA 30253
+</address>
 
 <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?cid=873884944616720550&amp;output=embed"></iframe>
 </div>
