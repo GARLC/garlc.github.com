@@ -41,6 +41,8 @@ Interim Secretary RLCofGA<br />
 </div>
 </div>
 
+<div class="row" markdown="1">
+
 Convention Agenda
 -----------------
 
@@ -60,6 +62,8 @@ Convention Agenda
     *Republican Liberty Caucus of Georgia Champion of Liberty Award 2012
     *Chairman's Report
       -Adjourn
+
+</div>
 
  [2]: https://maps.google.com/maps?cid=873884944616720550
  [3]: https://www.xorbia.com/e/rlc/republican-liberty-caucus-georgia-state-convention
