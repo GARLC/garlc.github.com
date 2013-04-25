@@ -25,6 +25,8 @@ Interim Secretary RLCofGA
 (801) 722-5801  
 [rlcga.org](http://rlcga.org)
 
+<i class="icon-facebook-sign icon-large" style="color:#3b5998"> </i>[Add the Facebook event.](https://www.facebook.com/events/141638606003094/)
+
 </div>
 <div class="span6">
 
@@ -131,8 +133,6 @@ Saturday May 4th 2013- Republican Liberty Caucus of Georgia State Convention
 
 </ul>
 </div>
-
-<i class="icon-facebook-sign" style="color:#3b5998"> </i>[Add the Facebook event.](https://www.facebook.com/events/141638606003094/)
 
  [2]: https://maps.google.com/maps?cid=873884944616720550
  [3]: https://www.xorbia.com/e/rlc/republican-liberty-caucus-georgia-state-convention
