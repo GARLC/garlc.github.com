@@ -25,6 +25,7 @@ Interim Secretary RLCofGA
 (801) 722-5801  
 [rlcga.org](http://rlcga.org)
 
+<a href="https://www.facebook.com/events/141638606003094/"><i class="icon-facebook-sign" style="color:#3b5998"> </i> Add the Facebook event.</a>
 </div>
 <div class="span6">
 
