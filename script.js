@@ -20,7 +20,7 @@ $(function(){
         .attr('data-original-title', data.followers_count + ' followers on Twitter');
     });
     //Facebook
-    $.getJSON("https://graph.facebook.com/GeorgiaRLC?callback=?", function(data){
+    $.getJSON("https://graph.facebook.com/RLCofGeorgia?callback=?", function(data){
         $('.follow .icon-facebook').parents('li')
         .attr('data-original-title', data.likes + ' likes on Facebook');
     });
