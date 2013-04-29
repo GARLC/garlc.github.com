@@ -134,5 +134,33 @@ Saturday May 4th 2013- Republican Liberty Caucus of Georgia State Convention
 </ul>
 </div>
 
+Guest Speakers
+--------------
+
+It's our pleasure to announce the speakers for the 2013 Republican Liberty Caucus of Georgia on May 4th.  The line
+up on Saturday afternoon will be the following:
+
+###K. Carl Smith###
+
+Mr. Smith, representing the [Frederick Douglas Republicans](http://frederickdouglassrepublican.com/), has become a
+prominent conservative activist throughout the south and will discuss the importance of conservatism and the GOP to all
+voters.
+
+###Dr. Mark Thornton###
+
+A senior fellow at the [Ludwig von Mises Institute](http://mises.org/fellow/12) has long championed the importance of
+strong monetary policy to regaining control of our out-of-control fiscal policy.
+
+###State Representative Charles Gregory###
+
+[A freshman lawmaker from Kennesaw](http://charlesgregory.com/biography.aspx) will discuss the internal politics of the
+Georgia General Assembly and the importance of grassroots republican support to crafting conservative public policy.
+
+###Congressman Dr. Paul Broun###
+
+[A marine, a doctor and champion of economic freedom](http://broun.house.gov/biography/), Dr. Broun will address the
+current political landscape in DC the changing dynamics in public policy and foreign affairs.
+
+
  [2]: https://maps.google.com/maps?cid=873884944616720550
  [3]: https://www.xorbia.com/e/rlc/republican-liberty-caucus-georgia-state-convention
