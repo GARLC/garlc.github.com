@@ -53,10 +53,6 @@ Monday April 8th 2013
 > Liberty Caucus of Georgia state convention.  The convention will be used to fill out our board, amend bylaws and draft
 > a resolution for the GAGOP state convention.
 >
-> After having been dormant for months the caucus called a convention in December to relieve Chairman Bowden.  That
-> evening seventeen RLC members met in Woodbury to elect new interim leadership until a full caucus convention could be
-> held.  Since then I’ve worked with several other members to put this convention together.
->
 > This caucus affords us a wonderful opportunity to both grow and support our GAGOP and also remain true to our
 > convictions of less government, lower taxes and more individual liberty.  I hope that you’ll take the time to read
 > through our agenda and compact and will attend our convention.  We are building the structure necessary to effectively
