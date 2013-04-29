@@ -148,13 +148,14 @@ voters.
 
 ####Dr. Mark Thornton####
 
-A senior fellow at the [Ludwig von Mises Institute](http://mises.org/fellow/12) has long championed the importance of
-strong monetary policy to regaining control of our out-of-control fiscal policy.
+A senior fellow at the [Ludwig von Mises Institute](http://mises.org/fellow/12), Mark has long championed the importance
+of strong monetary policy to regaining control of our out-of-control fiscal policy.
 
 ####State Representative Charles Gregory####
 
-[A freshman lawmaker from Kennesaw](http://charlesgregory.com/biography.aspx) will discuss the internal politics of the
-Georgia General Assembly and the importance of grassroots republican support to crafting conservative public policy.
+[A freshman lawmaker from Kennesaw](http://charlesgregory.com/biography.aspx), Charles will discuss the internal
+politics of the Georgia General Assembly and the importance of grassroots republican support to crafting conservative
+public policy.
 
 ####Congressman Dr. Paul Broun####
 
