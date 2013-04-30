@@ -142,7 +142,7 @@ up on Saturday afternoon will be the following:
 
 ####K. Carl Smith####
 
-Mr. Smith, representing the [Frederick Douglas Republicans](http://frederickdouglassrepublican.com/), has become a
+Mr. Smith, representing the [Frederick Douglass Republicans](http://frederickdouglassrepublican.com/), has become a
 prominent conservative activist throughout the south and will discuss the importance of conservatism and the GOP to all
 voters.
 
