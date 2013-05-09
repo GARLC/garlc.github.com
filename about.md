@@ -52,28 +52,45 @@ Contact
 -------
 
 **Chair**  
-<i class="icon-envelope"> </i>[Carter Kessler][3]
+<i class="icon-envelope"> </i>[Ben Johnson][10]  
+<i class="icon-phone"> </i>[(770) 229-9424 x100][11]
 {.span3}
 
 **Treasurer**  
-<i class="icon-envelope"> </i>[Ben Johnson][5]
+<i class="icon-envelope"> </i>[Shelby Peterson][20]  
+<i class="icon-phone"> </i>[(801) 722-5801][21]
 {.span3}
 
 **Secretary**  
-<i class="icon-envelope"> </i>[Shelby Peterson][6]  
-<i class="icon-phone"> </i>[(801) 722-5801][7]
+<i class="icon-envelope"> </i>[Jennifer O'Quinn][30]  
 {.span3}
 
-**Web Master**  
-<i class="icon-envelope"> </i>[Kaleb Hornsby][8]  
-<i class="icon-phone"> </i>[(706) 955-1417][9]
+**Vice Chair**  
+<i class="icon-envelope"> </i>[Carter Kessler][40]
+{.span3}
+
+**Vice Treasurer**  
+<i class="icon-envelope"> </i>[Andrew Danner][50]
+<i class="icon-phone"> </i>[(912) 550-4010][51]
+{.span3}
+
+**Vice Secretary**  
+<i class="icon-envelope"> </i>[Kaleb Hornsby][60]  
+<i class="icon-phone"> </i>[(706) 955-1417][61]
 {.span3}
 
   [1]: http://rlc.org
   [2]: http://www.rlc.org/about/advisory-board/
-  [3]: mailto:chair@rlcga.org
-  [5]: mailto:treasurer@rlcga.org
-  [6]: mailto:secretary@rlcga.org
-  [7]: tel:+1-801-722-5801
-  [8]: mailto:help@rlcga.org
-  [9]: tel:+1-706-955-1417
+  
+  [10]: mailto:ben@rlcga.org
+  [11]: tel:+1-770-229-9424;ext=100
+  [20]: mailto:shelby@rlcga.org
+  [21]: tel:+1-801-722-5801
+  [30]: mailto:jennifer@rlcga.org
+
+  [40]: mailto:carter@rlcga.org
+
+  [50]: mailto:andrew@rlcga.org
+  [51]: tel:+1-912-550-4010
+  [60]: mailto:kaleb@rlcga.org
+  [61]: tel:+1-706-955-1417
