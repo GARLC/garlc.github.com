@@ -70,7 +70,7 @@ Contact
 {.span3}
 
 **Vice Treasurer**  
-<i class="icon-envelope"> </i>[Andrew Danner][50]
+<i class="icon-envelope"> </i>[Andrew Danner][50]  
 <i class="icon-phone"> </i>[(912) 550-4010][51]
 {.span3}
 
