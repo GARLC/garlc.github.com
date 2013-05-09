@@ -63,7 +63,7 @@ Contact
 
 **Secretary**  
 <i class="icon-envelope"> </i>[Jennifer O'Quinn][30]  
-[]()
+  
 {.span3}
 
 **Vice Chair**  
