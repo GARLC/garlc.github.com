@@ -18,8 +18,12 @@ activism and media outreach, the RLC of GA seeks to educate and influence the
 Republican Party, the state legislature, and the citizens of Georgia with
 policies that promote these ideals.
 
-Be the conscience of the Republican Party. [Join us today][1]! [Learn more][2].
+Be the conscience of the Republican Party. Join us today! [Learn more][2].
 
+[Become a member][2].
+
+[Become a premium member][3].  Premium membership includes member's spouse or partner.
 
   [1]: https://members.rlc.org/d/civicrm/contribute/transact?reset=1&id=1
-  [2]: http://www.rlc.org/join-the-rlc/
+  [2]: https://spacebox.io/s/wXKrS0JLYf "Become a member"
+  [3]: https://spacebox.io/s/juq5iIj4Mc "Become a premium member"
